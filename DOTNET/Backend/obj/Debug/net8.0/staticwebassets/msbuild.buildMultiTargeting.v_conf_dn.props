@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\v_conf_dn.props" />
+</Project>
